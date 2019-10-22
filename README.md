@@ -1,6 +1,6 @@
-# Data-bases-postgreSQL
+# Databases-postgreSQL
 
-My data bases course work from MIPT data bases course.
+My databases course work from MIPT data bases course.
 
 
 It includes:
